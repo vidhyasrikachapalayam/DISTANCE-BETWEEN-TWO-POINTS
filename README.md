@@ -31,7 +31,8 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
-![distance](./distance.png)
+![distance](https://user-images.githubusercontent.com/119477817/215025631-631672f5-e972-498e-99a1-b11ff8662caa.png)
+
 
 ### RESULT:
 Thus the distance between two points succesfully executed.
