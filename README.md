@@ -12,7 +12,7 @@ Get the values from the the user.
 Assign the values.
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](https://user-images.githubusercontent.com/119477817/215375787-05b71d33-ab02-42ee-85a7-0bbc678c05b7.JPG)
 
 ### Step 4: 
 Print the result.
